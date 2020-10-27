@@ -4,6 +4,10 @@ body {
   justify-content: center;
 }
 
+.select {
+  display: flex;
+  justify-content: center;
+}
 
 .header {
   background-color: #282c34;
@@ -30,6 +34,7 @@ body {
 .image {
   width: 200px;
   height: 200px;
+  border-radius: 10px;
 }
 
 .articles {
@@ -42,6 +47,8 @@ body {
 
 .article {
   margin: 10px;
+  border-radius: 20px;
+  background-color: turquoise;
 }
 
 
