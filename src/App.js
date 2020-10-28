@@ -10,7 +10,7 @@ function App() {
       <div className=".header">
         <Header />
       </div>
-      <div className="section">
+      <div>
         <ImageList images={images}/>
       </div>
     </main>
